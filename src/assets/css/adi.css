@@ -1,0 +1,7 @@
+
+.brand-text {
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif; /* Ensure Poppins is imported in your project */
+    color: black;
+  }
